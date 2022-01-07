@@ -1,5 +1,5 @@
 # Curtis Mayberry
 
-My homepage and portfolio
+Analog, RF, and Software Design Engineer
+
 Curtisma.org - CurtisMayberry.com
-# curtisma.github.io
