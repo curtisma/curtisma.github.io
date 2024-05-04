@@ -1,17 +1,18 @@
-# Welcome to MkDocs
+# Curtis Mayberry
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Analog, RF, and Software Design Engineer
 
-## Commands
+![Image title](imgs/profile_picture.jpeg){ align=left }
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+Curtis Mayberry is an analog, RF, and software design engineer.
 
-## Project layout
+Interests:
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+- RF IC design
+- Analog IC design
+- Digital IC design
+- open source hardware integrated circuits (OSHIC)
+
+[Cascode-labs](http://www.cascode-labs.org/)
+
+[Skyworks Automated Design](https://skyworksinc.github.io/)

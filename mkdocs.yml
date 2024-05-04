@@ -1,8 +1,25 @@
 site_name: Curtis Mayberry
 site_url: https://Curtisma.org
-theme:
-  name: material
 repo_url: https://github.com/curtisma/curtisma.github.io
 repo_name: 'GitHub'
 site_description: Curtis Mayberry's home page, portfolio, and blog
 site_author: Curtis Mayberry
+
+nav:
+  - index.md
+  - Projects:
+    - projects/index.md
+  - Blog:
+    - blog/index.md
+
+theme:
+  name: material
+  features:
+    - navigation.tabs
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+plugins:
+  - social
+  - blog
