@@ -1,6 +1,6 @@
 [project]
 name = "curtisma"
-version = "2024.05.03"
+version = "2024.5.3"
 dependencies = [
   "mkdocs-material == 9.5.21",
 ]

@@ -1,0 +1,8 @@
+site_name: Curtis Mayberry
+site_url: https://Curtisma.org
+theme:
+  name: material
+repo_url: https://github.com/curtisma/curtisma.github.io
+repo_name: 'GitHub'
+site_description: Curtis Mayberry's home page, portfolio, and blog
+site_author: Curtis Mayberry
