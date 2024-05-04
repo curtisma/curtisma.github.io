@@ -26,5 +26,6 @@ jobs:
           path: .cache
           restore-keys: |
             mkdocs-material-
+      - run: pip install flit
       - run: pip install .
       - run: mkdocs gh-deploy --force
