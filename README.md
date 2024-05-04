@@ -4,4 +4,4 @@
 
 Analog, RF, and Software Design Engineer
 
-[Curtisma.org](www.Curtisma.org) - www.CurtisMayberry.com
+[Curtisma.org](https://Curtisma.org) CurtisMayberry.com
