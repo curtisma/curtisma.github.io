@@ -1,0 +1,30 @@
+[project]
+name = "curtisma"
+version = "2024.05.03"
+dependencies = [
+  "mkdocs-material == 9.5.21",
+]
+requires-python = ">=3.10"
+authors = [
+  {name = "Curtis Mayberry", email = "Curtisma3@gmail.com"},
+]
+maintainers = [
+  {name = "Curtis Mayberry", email = "Curtisma3@gmail.com"},
+]
+description = "Curtisma.org site"
+readme = "README.md"
+license = {file = "LICENSE.txt"}
+keywords = ["homepage", "portfolio", "Curtis", "Mayberry", "Engineering"]
+classifiers = [
+  "Development Status :: 4 - Beta",
+  "Programming Language :: Python"
+]
+
+[project.urls]
+Homepage = "https://www.curtisma.org/"
+Repository = "https://github.com/curtisma/curtisma.github.io"
+"Bug Tracker" = "https://github.com/curtisma/curtisma.github.io/issues"
+
+[build-system]
+requires = ["flit_core >=3.2,<4"]
+build-backend = "flit_core.buildapi"
