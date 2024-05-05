@@ -2,3 +2,8 @@
 sudo apt-get update
 sudo apt-get install libcairo2-dev libfreetype6-dev libffi-dev libjpeg-dev libpng-dev libz-dev
 sudo apt-get install pngquant
+
+uv venv .venv
+# shellcheck source=/dev/null
+source .venv/bin/source/activate
+uv pip install .
