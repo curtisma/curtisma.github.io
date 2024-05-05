@@ -1,3 +1,10 @@
+---
+draft: true 
+date: 2024-01-31 
+categories:
+  - Presentation
+---
+
 # Panel: Will open source design be the future direction?
 
 I participated in a panel discussion on
