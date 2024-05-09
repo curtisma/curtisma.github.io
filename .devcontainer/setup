@@ -6,4 +6,4 @@ sudo apt-get install pngquant
 uv venv .venv
 # shellcheck source=/dev/null
 source .venv/bin/source/activate
-uv pip install .
+uv pip install -e .
