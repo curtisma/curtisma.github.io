@@ -12,6 +12,7 @@ nav:
     - projects/cicc-panels-oshic/cicc_panel_oschic.md
   - Blog:
     - blog/index.md
+  - Cascode-Labs: http://www.cascode-labs.org/
 
 theme:
   name: material

@@ -1,10 +1,13 @@
 ---
 draft: true 
-date: 2024-01-31 
+date: 2024-04-19
 categories:
   - welcome
+authors: 
+  - Curtisma
 ---
 
 # Welcome
 
-I plan to write about open source IC design.
+I decided I'd start writing infrequently about some of my work on
+analog and RF IC design.
