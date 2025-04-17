@@ -14,7 +14,7 @@ maintainers = [
 ]
 description = "Curtisma.org site"
 readme = "README.md"
-license = {file = "LICENSE.txt"}
+license = {file = "LICENSE"}
 keywords = ["homepage", "portfolio", "Curtis", "Mayberry", "Engineering"]
 classifiers = [
   "Development Status :: 4 - Beta",
